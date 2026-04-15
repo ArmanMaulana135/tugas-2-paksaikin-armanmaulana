@@ -1,4 +1,4 @@
-Proyek ini adalah implementasi sederhana dalam bahasa pemrograman Python untuk mengolah data belanja harian yang disimpan dalam struktur data Dictionary, List, dan Tuple.
+2Proyek ini adalah implementasi sederhana dalam bahasa pemrograman Python untuk mengolah data belanja harian yang disimpan dalam struktur data Dictionary, List, dan Tuple.
 
 Fitur Utama
 Program ini mencakup beberapa fungsi fungsional untuk menganalisis data belanja:
